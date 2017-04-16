@@ -1,0 +1,92 @@
+{
+  "flights": [
+    {
+      "id": 0,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    },
+    {
+      "id": 1,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    },
+    {
+      "id": 2,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    },{
+      "id": 3,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    },
+    {
+      "id": 4,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    },
+    {
+      "id": 5,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    },
+    {
+      "id": 6,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    },
+    {
+      "id": 7,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    },{
+      "id": 8,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    },
+    {
+      "id": 9,
+      "flight": "AA-11",
+      "destination": "Moscow",
+      "aircraft": "CRJ-200",
+      "time": "2017-04-08T19:00:00+0100",
+      "exp": "2017-04-08T19:10:00+0100",
+      "status": "departed"
+    }
+  ]
+}
