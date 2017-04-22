@@ -6,7 +6,6 @@ module.exports = {
     'react-hot-loader/patch',
     'webpack-dev-server/client?http://localhost:8080',
     'webpack/hot/only-dev-server',
-    'babel-polyfill',
     './index.js'
   ],
 
@@ -17,8 +16,6 @@ module.exports = {
   },
 
   context: resolve(__dirname, 'src'),
-
-  devtool: 'inline-source-map',
 
   devServer: {
     hot: true,

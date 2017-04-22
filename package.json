@@ -6,15 +6,20 @@
   "author": "shashkov",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server --progress --color --watch & json-server db/db.json",
-    "build": "webpack"
+    "start": "webpack-dev-server --watch & json-server db/db.json"
   },
   "eslintConfig": {
     "extends": "airbnb",
-    "import/parser": "babel-eslint",
+    "parser": "babel-eslint",
     "rules": {
       "comma-dangle": 0,
-      "react/jsx-filename-extension": 0
+      "react/jsx-filename-extension": 0,
+      "no-param-reassign": [
+        "error",
+        {
+          "props": false
+        }
+      ]
     },
     "globals": {
       "document": true,
@@ -38,6 +43,7 @@
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
+    "babel-eslint": "^7.2.3",
     "babel-loader": "^6.4.1",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",

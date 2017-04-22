@@ -1,92 +1,94 @@
 {
   "flights": [
     {
-      "id": 0,
       "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
+      "from": "Moscow",
+      "to": "Frankfurt",
+      "aircraft": "Boeing",
+      "time": "2017-04-22T22:41:06+05:00",
+      "exp": "2017-04-22T22:41:06+05:00",
+      "status": "ready for boarding",
+      "id": 0
     },
     {
-      "id": 1,
-      "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
+      "flight": "AA-12",
+      "from": "New York",
+      "to": "Moscow",
+      "aircraft": "Boeing",
+      "time": "2017-04-22T22:07:47+05:00",
+      "exp": "2017-04-22T22:07:47+05:00",
+      "status": "ready for boarding",
+      "id": 1
     },
     {
-      "id": 2,
-      "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
-    },{
-      "id": 3,
-      "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
+      "flight": "AA-13",
+      "from": "Moscow",
+      "to": "Stockholm",
+      "aircraft": "Boeing",
+      "time": "2017-04-22T22:07:50+05:00",
+      "exp": "2017-04-22T22:07:50+05:00",
+      "status": "ready for boarding",
+      "id": 2
     },
     {
-      "id": 4,
-      "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
+      "flight": "AA-14",
+      "from": "London",
+      "to": "Moscow",
+      "aircraft": "Boeing",
+      "time": "2017-04-22T22:07:53+05:00",
+      "exp": "2017-04-22T22:07:53+05:00",
+      "status": "ready for boarding",
+      "id": 3
     },
     {
-      "id": 5,
-      "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
+      "flight": "AA-15",
+      "from": "Moscow",
+      "to": "Paris",
+      "aircraft": "Boeing",
+      "time": "2017-04-22T22:07:56+05:00",
+      "exp": "2017-04-22T22:07:56+05:00",
+      "status": "ready for boarding",
+      "id": 4
     },
     {
-      "id": 6,
-      "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
+      "flight": "AA-16",
+      "from": "Ekaterinburg",
+      "to": "Moscow",
+      "aircraft": "Boeing",
+      "time": "2017-04-22T22:07:59+05:00",
+      "exp": "2017-04-22T22:07:59+05:00",
+      "status": "ready for boarding",
+      "id": 5
     },
     {
-      "id": 7,
-      "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
-    },{
-      "id": 8,
-      "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
+      "flight": "AA-17",
+      "from": "Moscow",
+      "to": "Vladivostok",
+      "aircraft": "Boeing",
+      "time": "2017-04-22T22:08:03+05:00",
+      "exp": "2017-04-22T22:08:03+05:00",
+      "status": "ready for boarding",
+      "id": 6
     },
     {
-      "id": 9,
-      "flight": "AA-11",
-      "destination": "Moscow",
-      "aircraft": "CRJ-200",
-      "time": "2017-04-08T19:00:00+0100",
-      "exp": "2017-04-08T19:10:00+0100",
-      "status": "departed"
+      "flight": "AA-18",
+      "from": "Berlin",
+      "to": "Moscow",
+      "aircraft": "Boeing",
+      "time": "2017-04-22T22:08:06+05:00",
+      "exp": "2017-04-22T22:08:06+05:00",
+      "status": "ready for boarding",
+      "id": 7
+    },
+    {
+      "flight": "AA-19",
+      "from": "Manchester",
+      "to": "Moscow",
+      "aircraft": "Boeing",
+      "time": "2017-04-22T22:16:22+05:00",
+      "exp": "2017-04-22T22:16:22+05:00",
+      "status": "boarding",
+      "id": 8
     }
   ]
 }
